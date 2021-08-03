@@ -18,3 +18,4 @@ hook.Add( "CalcView", "gstore_tased_view", function( ply, origin, angles, fov )
 		return baseView
 	end
 end )
+
